@@ -255,6 +255,7 @@ import { DashboardService } from '../../services/dashboard.service';
       flex-wrap: wrap;
       gap: 1.5rem 2.5rem;
       flex: 1;
+      
     }
 
     .summary-row {
